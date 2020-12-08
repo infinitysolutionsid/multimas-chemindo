@@ -3248,6 +3248,16 @@ html[xmlns] .slider-wrap {
     height: 100px;
 }
 
+.emphasis-title img {
+    width: 100px !important;
+}
+
+.emphasis-title span {
+    font-size: 14px;
+    letter-spacing: 8px;
+    color: rgba(255, 255, 255, 0.9);
+}
+
 .header-size-sm #header-wrap #logo img {
     height: 60px;
 }

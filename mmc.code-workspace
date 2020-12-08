@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../mine-care"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
