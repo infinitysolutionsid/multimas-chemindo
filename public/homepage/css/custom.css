@@ -4,6 +4,10 @@
     object-fit: contain;
 }
 
+.font-weight-light>a:nth-child(1) {
+    color: #56735e !important;
+}
+
 a,
 h1>span:not(.nocolor):not(.badge),
 h2>span:not(.nocolor):not(.badge),
