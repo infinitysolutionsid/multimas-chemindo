@@ -148,7 +148,7 @@
                     </div>
                     <div class="col-lg-4 col-md-2 col-6">
                         <div class="widget clearfix">
-                            <h4 class="ls0 mb-4 nott text-white">Our Locaton</h4>
+                            <h4 class="ls0 mb-4 nott text-white">Our Location</h4>
                             <ul class="list-unstyled ml-0">
                                 <li class="mb-2"><a href="#">Jl. Imam Bonjol No.40 Medan</a></li>
                             </ul>
