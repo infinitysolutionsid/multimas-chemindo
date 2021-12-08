@@ -78,7 +78,7 @@
                                         <li class="menu-item"><a class="menu-link" href="/warehouse">
                                                 <div>Warehouse</div>
                                             </a></li>
-                                        <li class="menu-item"><a class="menu-link" href="/our-fertilizers">
+                                        <li class="menu-item"><a class="menu-link" href="/fertilizers">
                                                 <div>Our Fertilizers</div>
                                             </a></li>
                                     </ul>
@@ -144,7 +144,7 @@
 
                             <ul class="list-unstyled ml-0">
                                 <li class="mb-2"><a href="#">Home</a></li>
-                                <li class="mb-2"><a href="#">Our COmpany</a></li>
+                                <li class="mb-2"><a href="#">Our Company</a></li>
                                 <li class="mb-2"><a href="#">FAQs</a></li>
                                 <li class="mb-2"><a href="#">Support</a></li>
                             </ul>

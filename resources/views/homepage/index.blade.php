@@ -117,8 +117,8 @@
                                 <div class="flip-card-inner">
                                     <p class="mb-2 text-white">Lorem ipsum, dolor sit amet consectetur
                                         adipisicing elit. Alias cum repellat velit.</p>
-                                    <button type="button" class="btn btn-outline-light mt-2">View
-                                        Details</button>
+                                    <a href="/fertilizers" class="btn btn-outlixne-light mt-2">View
+                                        Details</a>
                                 </div>
                             </div>
                         </div>

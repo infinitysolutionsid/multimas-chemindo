@@ -23,7 +23,7 @@ Route::get('/contact-us', function () {
 Route::get('/warehouse', function () {
     return view('homepage.warehouse');
 });
-Route::get('/our-fertilizers', function () {
+Route::get('/fertilizers', function () {
     return view('homepage.ourfertilizers');
 });
 Route::get('/our-suppliers', function () {
