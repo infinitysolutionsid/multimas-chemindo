@@ -135,30 +135,30 @@
                             <h2 class="nott font-weight-semibold">Trade Together, Build Together.</h2>
                         </div>
                         <div class="row">
-                            <div class="col-3 col-sm-3 mb-4">
-                                <div class="counter color font-weight-semibold"><span data-from="1" data-to="10"
+                            <div class="col-4 col-sm-4 mb-4">
+                                <div class="counter color font-weight-semibold"><span data-from="1" data-to="5"
                                         data-refresh-interval="2" data-speed="600"></span>+</div>
                                 <h5 class="mt-0 font-weight-medium">Warehoue</h5>
                             </div>
 
-                            <div class="col-3 col-sm-3 mb-4">
+                            {{-- <div class="col-3 col-sm-3 mb-4">
                                 <div class="counter color font-weight-semibold"><span data-from="1" data-to="3"
                                         data-refresh-interval="11" data-speed="900"></span>+</div>
                                 <h5 class="mt-0 font-weight-medium">Branch Office</h5>
-                            </div>
+                            </div> --}}
 
-                            <div class="col-3 col-sm-3 mb-4">
+                            <div class="col-4 col-sm-4 mb-4">
                                 <div class="counter color font-weight-semibold"><span data-from="1" data-to="30"
                                         data-refresh-interval="3" data-speed="1000"></span>+
                                 </div>
                                 <h5 class="mt-0 font-weight-medium">Imported Fertilizers</h5>
                             </div>
 
-                            <div class="col-3 col-sm-3 mb-4">
-                                <div class="counter color font-weight-semibold"><span data-from="100" data-to="13"
+                            <div class="col-4 col-sm-4 mb-4">
+                                <div class="counter color font-weight-semibold"><span data-from="1" data-to="30"
                                         data-refresh-interval="100" data-speed="1500"></span>+
                                 </div>
-                                <h5 class="mt-0 font-weight-medium">Etc</h5>
+                                <h5 class="mt-0 font-weight-medium">Partners</h5>
                             </div>
                         </div>
                         <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
