@@ -81,12 +81,10 @@
                                         <li class="menu-item"><a class="menu-link" href="/fertilizers">
                                                 <div>Our Fertilizers</div>
                                             </a></li>
+                                        <li class="menu-item"><a class="menu-link" href="/partners">
+                                                <div>Our Partners</div>
+                                            </a></li>
                                     </ul>
-                                </li>
-                                <li class="menu-item @yield('activesuppliers')"><a class="menu-link"
-                                        href="/our-suppliers">
-                                        <div>Our Suppliers</div>
-                                    </a>
                                 </li>
                                 <li class="menu-item @yield('activecontact')"><a class="menu-link" href="/contact-us">
                                         <div>Contact Us</div>

@@ -26,8 +26,8 @@ Route::get('/warehouse', function () {
 Route::get('/fertilizers', function () {
     return view('homepage.ourfertilizers');
 });
-Route::get('/our-suppliers', function () {
-    return view('homepage.suppliers');
+Route::get('/partners', function () {
+    return view('homepage.partners');
 });
 Route::get('/faqs', function () {
     return view('homepage.faqs');
