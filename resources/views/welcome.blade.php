@@ -43,10 +43,10 @@
                         <!-- Logo
 						============================================= -->
                         <div id="logo">
-                            <a href="" data-dark-logo="{!!asset('homepage/temp/images/logo.png')!!}"
+                            <a href="/" data-dark-logo="{!!asset('homepage/temp/images/logo.png')!!}"
                                 class="standard-logo"><img src="{!!asset('homepage/temp/images/logo.png')!!}"
                                     alt="Canvas Logo"></a>
-                            <a href="" data-dark-logo="{!!asset('homepage/temp/images/logo@2x.png')!!}"
+                            <a href="/" data-dark-logo="{!!asset('homepage/temp/images/logo@2x.png')!!}"
                                 class="retina-logo"><img src="{!!asset('homepage/temp/images/logo@2x.png')!!}"
                                     alt="Canvas Logo"></a>
                         </div><!-- #logo end -->
@@ -116,7 +116,7 @@
 
                 <div class="row">
                     <div class="col-sm-3">
-                        <a href=""><img src="{!!asset('homepage/temp/images/logo-footer.png')!!}" alt="Logo Footer"
+                        <a href="/"><img src="{!!asset('homepage/temp/images/logo-footer.png')!!}" alt="Logo Footer"
                                 class="mb-4" height="50px" width="
                                     auto"></a>
                         <p class="text-white-50">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
