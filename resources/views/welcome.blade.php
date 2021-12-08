@@ -117,7 +117,7 @@
                 <div class="row">
                     <div class="col-sm-3">
                         <a href="/"><img src="{!!asset('homepage/temp/images/logo-footer.png')!!}" alt="Logo Footer"
-                                class="mb-4" height="50px" width="
+                                class="mb-4 imgLogoFooter" height="50px" width="
                                     auto"></a>
                         <p class="text-white-50">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                         <a href="#" class="social-icon si-small si-light si-facebook" title="Facebook">
@@ -139,27 +139,21 @@
                     </div>
                     <div class="col-lg-2 col-md-2 col-6">
                         <div class="widget clearfix">
-
                             <h4 class="ls0 mb-4 nott text-white">Support</h4>
-
                             <ul class="list-unstyled ml-0">
-                                <li class="mb-2"><a href="#">Home</a></li>
-                                <li class="mb-2"><a href="#">Our Company</a></li>
-                                <li class="mb-2"><a href="#">FAQs</a></li>
+                                <li class="mb-2"><a href="/">Home</a></li>
+                                <li class="mb-2"><a href="/about-us">Our Company</a></li>
+                                <li class="mb-2"><a href="/faqs">FAQs</a></li>
                                 <li class="mb-2"><a href="#">Support</a></li>
                             </ul>
-
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-2 col-6">
                         <div class="widget clearfix">
-
                             <h4 class="ls0 mb-4 nott text-white">Our Locaton</h4>
-
                             <ul class="list-unstyled ml-0">
                                 <li class="mb-2"><a href="#">Jl. Imam Bonjol No.40 Medan</a></li>
                             </ul>
-
                         </div>
                     </div>
                 </div>

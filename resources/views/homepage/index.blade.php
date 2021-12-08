@@ -57,7 +57,7 @@
                                     <div class="card bg-transparent border-0">
                                         <div class="card-body">
                                             <h3 class="card-title mb-0">Warehouse</h3>
-                                            <span class="font-italic">Our Products</span>
+                                            <span class="font-italic">Our Warehouse</span>
                                         </div>
                                     </div>
                                 </div>
@@ -83,7 +83,7 @@
                                     <div class="card bg-transparent border-0">
                                         <div class="card-body">
                                             <h3 class="card-title mb-0">Our Suppliers</h3>
-                                            <span class="font-italic">Our Products</span>
+                                            <span class="font-italic">Our Suppliers</span>
                                         </div>
                                     </div>
                                 </div>
@@ -177,9 +177,10 @@
                 <div class="col-md-8 offset-1">
                     <div class="before-heading">Don't Hesitate to Reach out to Us</div>
                     <h2 class="nott font-weight-semibold display-4">Want to Talk?</h2>
-                    <h4 class="font-weight-light mb-4">Call us at <a href="tel:+(61)8-234-532-45">+(61)8-234-532-45</a>
+                    <h4 class="font-weight-light mb-4">Call us at <a href="tel:62614550039">+(61)455 0039</a>
                     </h4>
-                    <a href="#" class="button button-rounded button-xlarge m-0 nott font-weight-semibold ls0 px-5">Email
+                    <a href="mailto:info@multimaschemindo.com"
+                        class="button button-rounded button-xlarge m-0 nott font-weight-semibold ls0 px-5">Email
                         Us</a>
                 </div>
             </div>

@@ -29,3 +29,6 @@ Route::get('/fertilizers', function () {
 Route::get('/our-suppliers', function () {
     return view('homepage.suppliers');
 });
+Route::get('/faqs', function () {
+    return view('homepage.faqs');
+});
