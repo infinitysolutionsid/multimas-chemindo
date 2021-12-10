@@ -18,27 +18,26 @@
     <div class="row align-items-center">
         <div class="col-lg-6 offset-3 text-center">
             <h3>Our history</h3>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. A ducimus incidunt quia veniam voluptatibus
-                blanditiis quos animi repellat? Vitae voluptatibus quos ipsa laborum in quasi similique officia eaque,
-                fugiat sapiente.</p>
+            <p><b>PT. Multi Mas Chemindo</b> is established in the year of 1996 in Medan. The initial company activity
+                is
+                distributing various fertilizers to crude palm plantation in North Sumatra, Riau, and other area within
+                Indonesia. As the years go, <b>PT. Multi Mas Chemindo</b> has grown tremendously to become one of the
+                reliable
+                fertilizers importer company to supply throughout plantations in all over Indonesia.</p>
         </div>
     </div>
     <hr>
     <div class="row">
         <div class="col-lg-6">
             <h3>Our Vision</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa repellendus adipisci laborum placeat
-                delectus labore cupiditate deserunt minus numquam consequatur esse, hic at earum illo animi eaque et,
-                dolorem quo qui eos? Quam rerum possimus maxime veniam aut ratione eveniet aliquid cumque aspernatur
-                ipsum libero quaerat, nam. Ad, sunt, error!</p>
+            <p>To be the most reliable fertilizer distributor Nationwide and globally.</p>
         </div>
 
         <div class="col-lg-6">
             <h3>Our Mission</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa repellendus adipisci laborum placeat
-                delectus labore cupiditate deserunt minus numquam consequatur esse, hic at earum illo animi eaque et,
-                dolorem quo qui eos? Quam rerum possimus maxime veniam aut ratione eveniet aliquid cumque aspernatur
-                ipsum libero quaerat, nam. Ad, sunt, error!</p>
+            <p>To give our customers satisfactory price, quality and product availability,
+                as well as keeping our commitment in business.
+            </p>
         </div>
     </div>
 

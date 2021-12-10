@@ -9,7 +9,7 @@
     <div class="container clearfix">
         <div class="row align-content-between">
             <div class="col-lg-12 text-center" data-animate="bounceIn">
-                <h1>Our Suppliers</h1>
+                <h1>Suppliers, Key Partners and Customers</h1>
             </div>
         </div>
     </div>
@@ -18,87 +18,42 @@
     <div class="row align-items-center">
         <div class="col-lg-6 offset-3 text-center">
             <h3>Our Suppliers</h3>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. A ducimus incidunt quia veniam voluptatibus
-                blanditiis quos animi repellat? Vitae voluptatibus quos ipsa laborum in quasi similique officia eaque,
-                fugiat sapiente.</p>
+            <p>Our suppliers range from China to Chile, shipping you the best quality fertilizer from the best key
+                players for each kind. The relationship we have with our suppliers are dynamically built on trust,
+                professionalism and strong cooperation. </p>
         </div>
     </div>
-    <hr>
-    <div class="row align-items-md-center">
-        <div class="col-md-4 col-sm-6 mb-3 text-center">
-            <div class="flip-card top-to-bottom">
-                <div class="flip-card-front dark" data-height-xl="200"
-                    style="background-image:
-                    url('https://www.xyzanews.com/wp-content/uploads/2017/11/the-great-wall-2190047_1920-e1590704165934.jpg');">
-                    <div class="flip-card-inner">
-                        <div class="card bg-transparent border-0">
-                            <div class="card-body">
-                                <h1 class="card-title mb-0">China</h1>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="flip-card-back" data-height-xl="200"
-                    style="background-image:
-                                        url('https://st2.depositphotos.com/4451541/7452/v/950/depositphotos_74528677-stock-illustration-watercolor-bamboo-branches-isolated-on.jpg');">
-                    <div class="flip-card-inner">
-                        <p class="mb-2 text-white">Lorem ipsum, dolor sit amet consectetur
-                            adipisicing elit. Alias cum repellat velit.</p>
-                        <button type="button" class="btn btn-outline-light mt-2">View
-                            Details</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-4 col-sm-6 mb-3 text-center">
-            <div class="flip-card top-to-bottom">
-                <div class="flip-card-front dark" data-height-xl="200"
-                    style="background-image:
-                    url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxW9wjNQCy2WBj7xSWpXIOo5och2g-C-tQNg&usqp=CAU');">
-                    <div class="flip-card-inner">
-                        <div class="card bg-transparent border-0">
-                            <div class="card-body">
-                                <h1 class="card-title mb-0">Egypt</h1>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="flip-card-back" data-height-xl="200"
-                    style="background-image:
-                                        url('https://nitrocdn.com/AfoZeCLhBrVAIMdqdGEbGrQJJOrjKBeE/assets/static/optimized/rev-a634bbe/wp-content/uploads/2020/08/The-Great-Pyramid-of-Giza-1024x768.png');">
-                    <div class="flip-card-inner">
-                        <p class="mb-2 text-white">Lorem ipsum, dolor sit amet consectetur
-                            adipisicing elit. Alias cum repellat velit.</p>
-                        <button type="button" class="btn btn-outline-light mt-2">View
-                            Details</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-4 col-sm-6 mb-3 text-center">
-            <div class="flip-card top-to-bottom">
-                <div class="flip-card-front dark" data-height-xl="200"
-                    style="background-image:
-                    url('https://expatriant.com/wp-content/uploads/2020/04/alexander-smagin-MEWRrCmEiGc-unsplash.jpg');">
-                    <div class="flip-card-inner">
-                        <div class="card bg-transparent border-0">
-                            <div class="card-body">
-                                <h1 class="card-title mb-0">Russia</h1>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="flip-card-back" data-height-xl="200" style="background-image:
-                                        url('https://static.themoscowtimes.com/image/1360/9e/krasnodar-russia.jpg');">
-                    <div class="flip-card-inner">
-                        <p class="mb-2 text-white">Lorem ipsum, dolor sit amet consectetur
-                            adipisicing elit. Alias cum repellat velit.</p>
-                        <button type="button" class="btn btn-outline-light mt-2">View
-                            Details</button>
-                    </div>
-                </div>
-            </div>
-        </div>
+</div>
+<div class="container clearfix">
+
+
+    <div class="heading-block center">
+        <h4>Our Key Partners</h4>
     </div>
+
+    <ul class="clients-grid grid-2 grid-sm-3 grid-md-6 mb-0">
+        <li class="grid-item"><a><img src="{!!asset('homepage/keypartners/keypartner1.jpg')!!}"
+                    alt="Key Partners Logo"></a></li>
+        <li class="grid-item"><a><img src="{!!asset('homepage/keypartners/keypartner2.jpg')!!}"
+                    alt="Key Partners Logo"></a></li>
+        <li class="grid-item"><a><img src="{!!asset('homepage/keypartners/keypartner3.jpg')!!}"
+                    alt="Key Partners Logo"></a></li>
+        <li class="grid-item"><a><img src="{!!asset('homepage/keypartners/keypartner4.jpg')!!}"
+                    alt="Key Partners Logo"></a></li>
+        <li class="grid-item"><a><img src="{!!asset('homepage/keypartners/keypartner5.jpg')!!}"
+                    alt="Key Partners Logo"></a></li>
+        <li class="grid-item"><a><img src="{!!asset('homepage/keypartners/keypartner6.jpg')!!}"
+                    alt="Key Partners Logo"></a></li>
+        <li class="grid-item"><a><img src="{!!asset('homepage/keypartners/keypartner7.jpg')!!}"
+                    alt="Key Partners Logo"></a></li>
+        <li class="grid-item"><a><img src="{!!asset('homepage/keypartners/keypartner8.jpg')!!}"
+                    alt="Key Partners Logo"></a></li>
+        <li class="grid-item"><a><img src="{!!asset('homepage/keypartners/keypartner9.jpg')!!}"
+                    alt="Key Partners Logo"></a></li>
+        <li class="grid-item">
+            <a"><img src="{!!asset('homepage/keypartners/keypartner10.jpg')!!}" alt="Key Partners Logo"></a>
+        </li>
+    </ul>
+
 </div>
 @endsection

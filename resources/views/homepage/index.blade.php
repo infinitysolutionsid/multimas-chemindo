@@ -66,10 +66,10 @@
                                 style="background-image:
                                         url('https://afplus.com/wp-content/uploads/2019/04/warehouse-distribution.jpg');">
                                 <div class="flip-card-inner">
-                                    <p class="mb-2 text-white">Lorem ipsum, dolor sit amet consectetur
-                                        adipisicing elit. Alias cum repellat velit.</p>
-                                    <button type="button" class="btn btn-outline-light mt-2">View
-                                        Details</button>
+                                    <p class="mb-2 text-white">Our warehouses are strategically placed in the industrial
+                                        area of Sumatra, Java and Kalimantan.</p>
+                                    <a href="/warehouse" type="button" class="btn btn-outline-light mt-2">View
+                                        Details</a>
                                 </div>
                             </div>
                         </div>
@@ -91,10 +91,10 @@
                             <div class="flip-card-back" data-height-xl="200" style="background-image:
                                         url('https://img.idxchannel.com/media/1000/images/idx/2020/03/24/mll.jpg');">
                                 <div class="flip-card-inner">
-                                    <p class="mb-2 text-white">Lorem ipsum, dolor sit amet consectetur
-                                        adipisicing elit. Alias cum repellat velit.</p>
-                                    <button type="button" class="btn btn-outline-light mt-2">View
-                                        Details</button>
+                                    <p class="mb-2 text-white">Our suppliers vary from China to Egypt, ensuring the
+                                        availability of our products in checked.</p>
+                                    <a href="/partners" class="btn btn-outline-light mt-2">View
+                                        Details</a>
                                 </div>
                             </div>
                         </div>
@@ -107,7 +107,7 @@
                                     <div class="card bg-transparent border-0">
                                         <div class="card-body">
                                             <h3 class="card-title mb-0">Fertilizers</h3>
-                                            <span class="font-italic">Our Products</span>
+                                            <span class="font-italic">Our Fertilizers</span>
                                         </div>
                                     </div>
                                 </div>
@@ -115,9 +115,9 @@
                             <div class="flip-card-back" data-height-xl="200" style="background-image:
                                         url('https://benefert.com/wp-content/uploads/2020/04/benefert-solid.jpg');">
                                 <div class="flip-card-inner">
-                                    <p class="mb-2 text-white">Lorem ipsum, dolor sit amet consectetur
-                                        adipisicing elit. Alias cum repellat velit.</p>
-                                    <a href="/fertilizers" class="btn btn-outlixne-light mt-2">View
+                                    <p class="mb-2 text-white">Our wide range of fertilizers enable our customers to
+                                        find the best suitable products for their needs.</p>
+                                    <a href="/fertilizers" class="btn btn-outline-light mt-2">View
                                         Details</a>
                                 </div>
                             </div>
@@ -161,9 +161,9 @@
                                 <h5 class="mt-0 font-weight-medium">Partners</h5>
                             </div>
                         </div>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                            Assumenda
-                            praesentium eius, similique reprehenderit ab voluptatibus eaque.</p>
+                        <p class="text-muted">Our goal is to be the no.1 reliable fertilizers distributor and producer.
+                            We attempt to rapidly grow our business by always improving our business operation,
+                            customers and products range in order to serve more business partners in the future.</p>
                     </div>
                 </div>
             </div>

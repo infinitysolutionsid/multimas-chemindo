@@ -5,6 +5,10 @@
 
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="author" content="Bintang Tobing" />
+    <meta name="description" content="PT. Multi Mas Chemindo is established in the year of 1996 in Medan. The initial company activity is distributing various fertilizers to crude palm plantation in North Sumatra, Riau, and other area within Indonesia. For the last 22 years, PT. Multi Mas Chemindo has grown tremendously to become one of the reliable fertilizers importer company to supply throughout plantations in all over Indonesia.
+" />
+    <meta name="keywords"
+        content="multi mas chemindo, best fertilizers in Medan, chemindo, fertilizers multi mas chemindo" />
     <!-- Stylesheets
 	============================================= -->
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,400i,500,600,700&display=swap" rel="stylesheet"
@@ -28,6 +32,28 @@
     <link rel="stylesheet" href="{!!asset('homepage/temp/coworking.css')!!}" type="text/css" />
     <title>Multi Mas Chemindo | @yield('titleweb')</title>
 
+    {{-- Meta --}}
+    <meta name="og:title" property="og:title" content="PT Multi Mas Chemindo" />
+    <meta name="og:url" property="og:url" content="https://multimaschemindo.com" />
+    <meta name="og:type" property="og:type" content="website" />
+    <meta name="og:image" property="og:image"
+        content="https://res.cloudinary.com/https-www-infinitysolutions-co-id/image/upload/v1639102332/customer/multimaschemindo/lainlain/cover-min.png" />
+    <meta name="og:description" property="og:description" content="PT. Multi Mas Chemindo is established in the year of 1996 in Medan. The initial company activity is
+        distributing various fertilizers to crude palm plantation in North Sumatra, Riau, and other area within
+        Indonesia. For the last 22 years, PT. Multi Mas Chemindo has grown tremendously to become one of the reliable
+        fertilizers importer company to supply throughout plantations in all over Indonesia." />
+    <meta name="twitter:card" content="PT Multi Mas Chemindo" />
+    <meta name="twitter:title" property="og:title" content="PT Multi Mas Chemindo" />
+    <meta name="twitter:url" property="og:url" content="https://multimaschemindo.com" />
+    <meta name="twitter:type" property="og:type" content="website" />
+    <meta name="twitter:image" property="og:image"
+        content="https://res.cloudinary.com/https-www-infinitysolutions-co-id/image/upload/v1639102332/customer/multimaschemindo/lainlain/cover-min.png" />
+    <meta name="twitter:description" property="og:description" content="PT. Multi Mas Chemindo is established in the year of 1996 in Medan. The initial company activity is
+        distributing various fertilizers to crude palm plantation in North Sumatra, Riau, and other area within
+        Indonesia. For the last 22 years, PT. Multi Mas Chemindo has grown tremendously to become one of the reliable
+        fertilizers importer company to supply throughout plantations in all over Indonesia." />
+    <link rel="canonical" href="https://multimaschemindo.com/" />
+
 </head>
 
 <body class="stretched">
@@ -45,10 +71,10 @@
                         <div id="logo">
                             <a href="/" data-dark-logo="{!!asset('homepage/temp/images/logo.png')!!}"
                                 class="standard-logo"><img src="{!!asset('homepage/temp/images/logo.png')!!}"
-                                    alt="Canvas Logo"></a>
+                                    alt="Company Logo"></a>
                             <a href="/" data-dark-logo="{!!asset('homepage/temp/images/logo@2x.png')!!}"
                                 class="retina-logo"><img src="{!!asset('homepage/temp/images/logo@2x.png')!!}"
-                                    alt="Canvas Logo"></a>
+                                    alt="Company Logo"></a>
                         </div><!-- #logo end -->
 
                         <div id="primary-menu-trigger">
@@ -117,8 +143,8 @@
                         <a href="/"><img src="{!!asset('homepage/temp/images/logo-footer.png')!!}" alt="Logo Footer"
                                 class="mb-4 imgLogoFooter" height="50px" width="
                                     auto"></a>
-                        <p class="text-white-50">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                        <a href="#" class="social-icon si-small si-light si-facebook" title="Facebook">
+                        <p class="text-white-50">Importer | Distributor | Producer</p>
+                        {{-- <a href="#" class="social-icon si-small si-light si-facebook" title="Facebook">
                             <i class="icon-facebook"></i>
                             <i class="icon-facebook"></i>
                         </a>
@@ -133,7 +159,7 @@
                         <a href="#" class="social-icon si-small si-light si-instagram" title="instagram">
                             <i class="icon-instagram"></i>
                             <i class="icon-instagram"></i>
-                        </a>
+                        </a> --}}
                     </div>
                     <div class="col-lg-2 col-md-2 col-6">
                         <div class="widget clearfix">
@@ -142,7 +168,7 @@
                                 <li class="mb-2"><a href="/">Home</a></li>
                                 <li class="mb-2"><a href="/about-us">Our Company</a></li>
                                 <li class="mb-2"><a href="/faqs">FAQs</a></li>
-                                <li class="mb-2"><a href="#">Support</a></li>
+                                {{-- <li class="mb-2"><a href="#">Support</a></li> --}}
                             </ul>
                         </div>
                     </div>
@@ -177,8 +203,8 @@
                             Reserved by <a style="color: #fff !important;" href="https://infinitysolutions.co.id"
                                 target="_blank">Infinity
                                 Solutions</a>.</p>
-                        <div class="copyright-links text-white-50"><a href="#" class="text-white-50">Terms of
-                                Use</a> / <a href="#" class="text-white-50">Privacy Policy</a></div>
+                        {{-- <div class="copyright-links text-white-50"><a href="/tos" class="text-white-50">Terms of
+                                Use</a> / <a href="/privacy-policy" class="text-white-50">Privacy Policy</a></div> --}}
                     </div>
                 </div>
 
