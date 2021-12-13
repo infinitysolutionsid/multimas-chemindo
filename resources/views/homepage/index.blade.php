@@ -172,20 +172,25 @@
 
 
     <div class="section mb-0 pb-0 bg-theme-light clearfix" style="margin-top: 0;">
-        <div class="container">
+        <div class="container-fluid">
             <div class="row">
-                <div class="col-md-8 offset-1">
-                    <div class="before-heading">Don't Hesitate to Reach out to Us</div>
-                    <h2 class="nott font-weight-semibold display-4">Want to Talk?</h2>
-                    <h4 class="font-weight-light mb-4">Call us at <a href="tel:62614550039">+(62) 61 455 0039</a>
-                    </h4>
-                    <a href="mailto:info@multimaschemindo.com"
-                        class="button button-rounded button-xlarge m-0 nott font-weight-semibold ls0 px-5">Email
-                        Us</a>
+                <div class="col-md-4">
+                    <div style="margin-left:150px;">
+                        <div class="before-heading">Don't Hesitate to Reach out to Us</div>
+                        <h2 class="nott font-weight-semibold display-4">Want to Talk?</h2>
+                        <h4 class="font-weight-light mb-4">Call us at <a href="tel:62614550039">+(62) 61 455 0039</a>
+                        </h4>
+                        <a href="mailto:info@multimaschemindo.com"
+                            class="button button-rounded button-xlarge m-0 nott font-weight-semibold ls0 px-5">Email
+                            Us</a>
+                    </div>
+                </div>
+                <div class="col-md-8 mb-3">
+                    <img src="{!!asset('homepage/contact.png')!!}" alt="Footer Image" class="footer-img">
                 </div>
             </div>
         </div>
-        <img src="{!!asset('homepage/temp/images/footer-bg.jpg')!!}" alt="Footer Image" class="footer-img">
+
     </div>
 </section>
 @endsection

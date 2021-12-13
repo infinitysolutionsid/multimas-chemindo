@@ -224,6 +224,7 @@
 	============================================= -->
     <script src="{!!asset('homepage/js/jquery.js')!!}"></script>
     <script src="{!!asset('homepage/js/plugins.min.js')!!}"></script>
+    <script src="https://maps.google.com/maps/api/js?key=AIzaSyAO2BYvn4xyrdisvP8feA4AS_PGZFxJDp4"></script>
 
     <!-- Footer Scripts
 	============================================= -->

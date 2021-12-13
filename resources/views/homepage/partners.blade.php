@@ -17,7 +17,9 @@
 <div class="container">
     <div class="row align-items-center">
         <div class="col-lg-6 offset-3 text-center">
-            <h3>Our Suppliers</h3>
+            <div class="heading-block center">
+                <h4>Our Suppliers</h4>
+            </div>
             <p>Our suppliers range from China to Chile, shipping you the best quality fertilizer from the best key
                 players for each kind. The relationship we have with our suppliers are dynamically built on trust,
                 professionalism and strong cooperation. </p>
