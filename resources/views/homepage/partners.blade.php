@@ -3,9 +3,8 @@
 @section('activesuppliers','current')
 @section('content')
 <div class="section parallax dark bottommargin-lg" style="background-image:
-    url('https://lh3.googleusercontent.com/XpOgKIwa5xclaCZ5bjqIruhKvBUQE_to9uVY9o5A2mRHFw00mvYl287VLCZ4Vus=s2600');
-    background-size: cover;" data-bottom-top="background-position:0px 0px; margin-top:0px;"
-    data-top-bottom="background-position:0px -500px;">
+    url('https://res.cloudinary.com/https-www-infinitysolutions-co-id/image/upload/c_scale,w_1920/v1639388484/customer/multimaschemindo/lainlain/header-key-partners.jpg');
+    background-size: cover;" data-bottom-top="background-position:0px 0px; margin-top:0px;">
     <div class="container clearfix">
         <div class="row align-content-between">
             <div class="col-lg-12 text-center" data-animate="bounceIn">
