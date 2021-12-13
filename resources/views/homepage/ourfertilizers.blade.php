@@ -35,7 +35,7 @@
                     <div class="grid-inner">
                         <div class="entry-image">
                             <a href="{!!('product/fertilizer/pupuk za-kristal.png')!!}" data-lightbox="image"><img
-                                    src="{!!('product/fertilizer/pupuk ZA Kristal.png')!!}" alt=""></a>
+                                    src="{!!('product/fertilizer/pupuk za-kristal.png')!!}" alt=""></a>
                         </div>
                         <div class="entry-title">
                             <h3>PUPUK ZA KRISTAL</h3>
