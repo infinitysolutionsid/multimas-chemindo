@@ -34,12 +34,12 @@
                 <div class="entry col-lg-3 col-md-4 col-sm-6 col-12">
                     <div class="grid-inner">
                         <div class="entry-image">
-                            <a href="{!!('product/fertilizer/pupuk ZA Kristal.png')!!}" data-lightbox="image"><img
+                            <a href="{!!('product/fertilizer/pupuk za-kristal.png')!!}" data-lightbox="image"><img
                                     src="{!!('product/fertilizer/pupuk ZA Kristal.png')!!}" alt=""></a>
                         </div>
                         <div class="entry-title">
                             <h3>PUPUK ZA KRISTAL</h3>
-                            <h2>27% P<sub>2</sub>O<sub>5</sub></h2>
+                            <h2>21% N <br>24% S</h2>
                         </div>
                         <div class="entry-content">
                             <p>Pupuk ZA adalah pupuk yang bermanfaat sebagai penambah hara nitrogen dan belarang pada
