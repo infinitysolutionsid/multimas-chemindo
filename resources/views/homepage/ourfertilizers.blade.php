@@ -9,7 +9,9 @@
             <!-- Posts
 					============================================= -->
             <div id="posts" class="post-grid row grid-container gutter-30" data-layout="fitRows">
-
+                <div class="entry col-lg-6 offset-3 text-center">
+                    <img src="{!!asset('product/fertilizer/logo_pupuk_daun_sawit.png')!!}">
+                </div>
                 <div class="entry col-lg-12">
                     <h1>Pupuk Tunggal</h1>
                     <hr>
