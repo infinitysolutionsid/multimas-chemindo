@@ -174,8 +174,8 @@
     <div class="section mb-0 pb-0 bg-theme-light clearfix" style="margin-top: 0;">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-md-4">
-                    <div style="margin-left:150px;">
+                <div class="col-lg-4 col-md-12 col-sm-12">
+                    <div class="ml-5">
                         <div class="before-heading">Don't Hesitate to Reach out to Us</div>
                         <h2 class="nott font-weight-semibold display-4">Want to Talk?</h2>
                         <h4 class="font-weight-light mb-4">Call us at <a href="tel:62614550039">+(62) 61 455 0039</a>
@@ -185,8 +185,8 @@
                             Us</a>
                     </div>
                 </div>
-                <div class="col-md-8 mb-3">
-                    <img src="{!!asset('homepage/contact.png')!!}" alt="Footer Image" class="footer-img">
+                <div class="col-lg-8 col-md-6 col-sm-12">
+                    <img src="{!!asset('homepage/contact.png')!!}" alt="Footer Image" class="img-responsive">
                 </div>
             </div>
         </div>

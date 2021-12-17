@@ -9,8 +9,8 @@
             <!-- Posts
 					============================================= -->
             <div id="posts" class="post-grid row grid-container gutter-30" data-layout="fitRows">
-                <div class="entry col-lg-6 offset-3 text-center">
-                    <img src="{!!asset('product/fertilizer/logo_pupuk_daun_sawit.png')!!}">
+                <div class="entry col-lg-6 col-md-12 col-sm-12 align-content-center">
+                    <img src="{!!asset('product/fertilizer/logo_pupuk_daun_sawit.png')!!}" class="img-responsive">
                 </div>
                 <div class="entry col-lg-12">
                     <h1>Pupuk Tunggal</h1>
@@ -19,8 +19,8 @@
                 <div class="entry col-lg-3 col-md-4 col-sm-6 col-12">
                     <div class="grid-inner">
                         <div class="entry-image">
-                            <a href="{!!('product/fertilizer/pupuk ZA.png')!!}" data-lightbox="image"><img
-                                    src="{!!('product/fertilizer/pupuk ZA.png')!!}" alt=""></a>
+                            <a href="{!!('product/fertilizer/pupuk ZA.png')!!}" data-lightbox="image"
+                                class="img-responsive"><img src="{!!('product/fertilizer/pupuk ZA.png')!!}" alt=""></a>
                         </div>
                         <div class="entry-title">
                             <h3>PUPUK ZA</h3>

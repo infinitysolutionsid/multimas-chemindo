@@ -3,8 +3,8 @@
 @section('activeabout','current')
 @section('content')
 <div class="container-fluid">
-    <div class="row align-items-center">
-        <div class="col-lg-6 offset-3 text-center mt-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-6 col-md-6 col-sm-6 text-center mt-5">
             <div class="heading-block center">
                 <h4>Our Warehouse</h4>
             </div>
