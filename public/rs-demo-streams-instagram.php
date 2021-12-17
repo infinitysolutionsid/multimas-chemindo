@@ -113,8 +113,8 @@ $photos = $instagram->get_public_photos($search_user_id);
 						<!-- Logo
 						============================================= -->
 						<div id="logo">
-							<a href="index.html" class="standard-logo" data-dark-logo="images/logo-dark.png"><img src="images/logo.png" alt="Company Logo"></a>
-							<a href="index.html" class="retina-logo" data-dark-logo="images/logo-dark@2x.png"><img src="images/logo@2x.png" alt="Company Logo"></a>
+							<a href="index.html" class="standard-logo" data-dark-logo="images/logo-dark.png"><img src="images/logo.png" alt="Multi mas chemindo logo"></a>
+							<a href="index.html" class="retina-logo" data-dark-logo="images/logo-dark@2x.png"><img src="images/logo@2x.png" alt="Multi mas chemindo logo"></a>
 						</div><!-- #logo end -->
 
 						<div class="header-misc">

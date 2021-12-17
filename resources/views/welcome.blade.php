@@ -71,10 +71,10 @@
                         <div id="logo">
                             <a href="/" data-dark-logo="{!!asset('homepage/temp/images/logo.png')!!}"
                                 class="standard-logo"><img src="{!!asset('homepage/temp/images/logo.png')!!}"
-                                    alt="Company Logo"></a>
+                                    alt="Multi mas chemindo logo"></a>
                             <a href="/" data-dark-logo="{!!asset('homepage/temp/images/logo@2x.png')!!}"
                                 class="retina-logo"><img src="{!!asset('homepage/temp/images/logo@2x.png')!!}"
-                                    alt="Company Logo"></a>
+                                    alt="Multi mas chemindo logo"></a>
                         </div><!-- #logo end -->
 
                         <div id="primary-menu-trigger">
@@ -140,8 +140,8 @@
 
                 <div class="row">
                     <div class="col-sm-3">
-                        <a href="/"><img src="{!!asset('homepage/temp/images/logo-footer.png')!!}" alt="Logo Footer"
-                                class="mb-4 imgLogoFooter" height="50px" width="
+                        <a href="/"><img src="{!!asset('homepage/temp/images/logo-footer.png')!!}"
+                                alt="Logo Multi Mas Chemindo" class="mb-4 imgLogoFooter" height="50px" width="
                                     auto"></a>
                         <p class="text-white-50">Importer | Distributor | Producer</p>
                         {{-- <a href="#" class="social-icon si-small si-light si-facebook" title="Facebook">

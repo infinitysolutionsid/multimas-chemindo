@@ -22,7 +22,8 @@
         <div class="vertical-middle">
             <div class="container text-center">
                 <div class="emphasis-title m-0">
-                    <h1><img src="{!!asset('homepage/temp/images/logo-home.png')!!}" alt="" class="img-fluid">
+                    <h1><img src="{!!asset('homepage/temp/images/logo-home.png')!!}"
+                            alt="multi mas chemindo asset image" class="img-fluid">
                     </h1>
                     <span class="font-weight-bold text-uppercase title">
                         PT MULTI MAS CHEMINDO</span>
@@ -186,7 +187,7 @@
                     </div>
                 </div>
                 <div class="col-lg-8 col-md-6 col-sm-12">
-                    <img src="{!!asset('homepage/contact.png')!!}" alt="Footer Image" class="img-responsive">
+                    <img src="{!!asset('homepage/contact.png')!!}" alt="Logo Multi Mas Chemindo" class="img-responsive">
                 </div>
             </div>
         </div>

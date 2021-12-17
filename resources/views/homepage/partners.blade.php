@@ -35,25 +35,25 @@
 
     <ul class="clients-grid grid-2 grid-sm-3 grid-md-6 mb-0">
         <li class="grid-item"><a><img src="{!!asset('homepage/keypartners/keypartner1.jpg')!!}"
-                    alt="Key Partners Logo"></a></li>
+                    alt="Multi Mas Chemindo Partner Logo"></a></li>
         <li class="grid-item"><a><img src="{!!asset('homepage/keypartners/keypartner2.jpg')!!}"
-                    alt="Key Partners Logo"></a></li>
+                    alt="Multi Mas Chemindo Partner Logo"></a></li>
         <li class="grid-item"><a><img src="{!!asset('homepage/keypartners/keypartner3.jpg')!!}"
-                    alt="Key Partners Logo"></a></li>
+                    alt="Multi Mas Chemindo Partner Logo"></a></li>
         <li class="grid-item"><a><img src="{!!asset('homepage/keypartners/keypartner4.jpg')!!}"
-                    alt="Key Partners Logo"></a></li>
+                    alt="Multi Mas Chemindo Partner Logo"></a></li>
         <li class="grid-item"><a><img src="{!!asset('homepage/keypartners/keypartner5.jpg')!!}"
-                    alt="Key Partners Logo"></a></li>
+                    alt="Multi Mas Chemindo Partner Logo"></a></li>
         <li class="grid-item"><a><img src="{!!asset('homepage/keypartners/keypartner6.jpg')!!}"
-                    alt="Key Partners Logo"></a></li>
+                    alt="Multi Mas Chemindo Partner Logo"></a></li>
         <li class="grid-item"><a><img src="{!!asset('homepage/keypartners/keypartner7.jpg')!!}"
-                    alt="Key Partners Logo"></a></li>
+                    alt="Multi Mas Chemindo Partner Logo"></a></li>
         <li class="grid-item"><a><img src="{!!asset('homepage/keypartners/keypartner8.jpg')!!}"
-                    alt="Key Partners Logo"></a></li>
+                    alt="Multi Mas Chemindo Partner Logo"></a></li>
         <li class="grid-item"><a><img src="{!!asset('homepage/keypartners/keypartner9.jpg')!!}"
-                    alt="Key Partners Logo"></a></li>
+                    alt="Multi Mas Chemindo Partner Logo"></a></li>
         <li class="grid-item">
-            <a"><img src="{!!asset('homepage/keypartners/keypartner10.jpg')!!}" alt="Key Partners Logo"></a>
+            <a"><img src="{!!asset('homepage/keypartners/keypartner10.jpg')!!}" alt="Multi Mas Chemindo Partner Logo"></a>
         </li>
     </ul>
 

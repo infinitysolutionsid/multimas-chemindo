@@ -20,7 +20,7 @@
                     <div class="grid-inner">
                         <div class="entry-image">
                             <a href="{!!('product/fertilizer/pupuk ZA.png')!!}" data-lightbox="image"
-                                class="img-responsive"><img src="{!!('product/fertilizer/pupuk ZA.png')!!}" alt=""></a>
+                                class="img-responsive"><img src="{!!('product/fertilizer/pupuk ZA.png')!!}" alt="multi mas chemindo asset image"></a>
                         </div>
                         <div class="entry-title">
                             <h3>PUPUK ZA</h3>
@@ -37,7 +37,7 @@
                     <div class="grid-inner">
                         <div class="entry-image">
                             <a href="{!!('product/fertilizer/pupuk za-kristal.png')!!}" data-lightbox="image"><img
-                                    src="{!!('product/fertilizer/pupuk za-kristal.png')!!}" alt=""></a>
+                                    src="{!!('product/fertilizer/pupuk za-kristal.png')!!}" alt="multi mas chemindo asset image"></a>
                         </div>
                         <div class="entry-title">
                             <h3>PUPUK ZA KRISTAL</h3>
@@ -55,7 +55,7 @@
                     <div class="grid-inner">
                         <div class="entry-image">
                             <a href="{!!('product/fertilizer/pupuk RP.png')!!}" data-lightbox="image"><img
-                                    src="{!!('product/fertilizer/pupuk RP.png')!!}" alt=""></a>
+                                    src="{!!('product/fertilizer/pupuk RP.png')!!}" alt="multi mas chemindo asset image"></a>
                         </div>
                         <div class="entry-title">
                             <h3>PUPUK RP</h3>
@@ -72,7 +72,7 @@
                     <div class="grid-inner">
                         <div class="entry-image">
                             <a href="{!!('product/fertilizer/pupuk TSP.png')!!}" data-lightbox="image"><img
-                                    src="{!!('product/fertilizer/pupuk TSP.png')!!}" alt=""></a>
+                                    src="{!!('product/fertilizer/pupuk TSP.png')!!}" alt="multi mas chemindo asset image"></a>
                         </div>
                         <div class="entry-title">
                             <h3>PUPUK TSP</h3>
@@ -89,7 +89,7 @@
                     <div class="grid-inner">
                         <div class="entry-image">
                             <a href="{!!('product/fertilizer/pupuk kcl-mop.png')!!}" data-lightbox="image"><img
-                                    src="{!!('product/fertilizer/pupuk kcl-mop.png')!!}" alt=""></a>
+                                    src="{!!('product/fertilizer/pupuk kcl-mop.png')!!}" alt="multi mas chemindo asset image"></a>
                         </div>
                         <div class="entry-title">
                             <h3>PUPUK KCL/MOP</h3>
@@ -106,7 +106,7 @@
                     <div class="grid-inner">
                         <div class="entry-image">
                             <a href="{!!('product/fertilizer/pupuk kieserite.png')!!}" data-lightbox="image"><img
-                                    src="{!!('product/fertilizer/pupuk kieserite.png')!!}" alt=""></a>
+                                    src="{!!('product/fertilizer/pupuk kieserite.png')!!}" alt="multi mas chemindo asset image"></a>
                         </div>
                         <div class="entry-title">
                             <h3>PUPUK KIESERITE</h3>
@@ -122,7 +122,7 @@
                     <div class="grid-inner">
                         <div class="entry-image">
                             <a href="{!!('product/fertilizer/pupuk d-sp36.png')!!}" data-lightbox="image"><img
-                                    src="{!!('product/fertilizer/pupuk d-sp36.png')!!}" alt=""></a>
+                                    src="{!!('product/fertilizer/pupuk d-sp36.png')!!}" alt="multi mas chemindo asset image"></a>
                         </div>
                         <div class="entry-title">
                             <h3>PUPUK D-SP36</h3>
@@ -138,7 +138,7 @@
                     <div class="grid-inner">
                         <div class="entry-image">
                             <a href="{!!('product/fertilizer/pupuk ammonium klorida.png')!!}" data-lightbox="image"><img
-                                    src="{!!('product/fertilizer/pupuk ammonium klorida.png')!!}" alt=""></a>
+                                    src="{!!('product/fertilizer/pupuk ammonium klorida.png')!!}" alt="multi mas chemindo asset image"></a>
                         </div>
                         <div class="entry-title">
                             <h3>PUPUK AMMONIUM KLORIDA</h3>
@@ -159,7 +159,7 @@
                     <div class="grid-inner">
                         <div class="entry-image">
                             <a href="{!!('product/fertilizer/pupuk amophos.png')!!}" data-lightbox="image"><img
-                                    src="{!!('product/fertilizer/pupuk amophos.png')!!}" alt=""></a>
+                                    src="{!!('product/fertilizer/pupuk amophos.png')!!}" alt="multi mas chemindo asset image"></a>
                         </div>
                         <div class="entry-title">
                             <h3>PUPUK AMOPHOS</h3>
@@ -176,7 +176,7 @@
                     <div class="grid-inner">
                         <div class="entry-image">
                             <a href="{!!('product/fertilizer/pupuk DAP.png')!!}" data-lightbox="image"><img
-                                    src="{!!('product/fertilizer/pupuk DAP.png')!!}" alt=""></a>
+                                    src="{!!('product/fertilizer/pupuk DAP.png')!!}" alt="multi mas chemindo asset image"></a>
                         </div>
                         <div class="entry-title">
                             <h3>PUPUK DAP</h3>
@@ -192,7 +192,7 @@
                     <div class="grid-inner">
                         <div class="entry-image">
                             <a href="{!!('product/fertilizer/pupuk KNO3.png')!!}" data-lightbox="image"><img
-                                    src="{!!('product/fertilizer/pupuk KNO3.png')!!}" alt=""></a>
+                                    src="{!!('product/fertilizer/pupuk KNO3.png')!!}" alt="multi mas chemindo asset image"></a>
                         </div>
                         <div class="entry-title">
                             <h3>PUPUK KNO<sub>3</sub></h3>
@@ -208,7 +208,7 @@
                     <div class="grid-inner">
                         <div class="entry-image">
                             <a href="{!!('product/fertilizer/pupuk KNO3 merah.png')!!}" data-lightbox="image"><img
-                                    src="{!!('product/fertilizer/pupuk KNO3 merah.png')!!}" alt=""></a>
+                                    src="{!!('product/fertilizer/pupuk KNO3 merah.png')!!}" alt="multi mas chemindo asset image"></a>
                         </div>
                         <div class="entry-title">
                             <h3>PUPUK KNO<sub>3</sub> MERAH</h3>
@@ -224,7 +224,7 @@
                     <div class="grid-inner">
                         <div class="entry-image">
                             <a href="{!!('product/fertilizer/pupuk MAP.png')!!}" data-lightbox="image"><img
-                                    src="{!!('product/fertilizer/pupuk MAP.png')!!}" alt=""></a>
+                                    src="{!!('product/fertilizer/pupuk MAP.png')!!}" alt="multi mas chemindo asset image"></a>
                         </div>
                         <div class="entry-title">
                             <h3>PUPUK MAP</h3>
@@ -240,7 +240,7 @@
                     <div class="grid-inner">
                         <div class="entry-image">
                             <a href="{!!('product/fertilizer/pupuk MKP.png')!!}" data-lightbox="image"><img
-                                    src="{!!('product/fertilizer/pupuk MKP.png')!!}" alt=""></a>
+                                    src="{!!('product/fertilizer/pupuk MKP.png')!!}" alt="multi mas chemindo asset image"></a>
                         </div>
                         <div class="entry-title">
                             <h3>PUPUK MKP</h3>
@@ -256,7 +256,7 @@
                     <div class="grid-inner">
                         <div class="entry-image">
                             <a href="{!!('product/fertilizer/pupuk CAN.png')!!}" data-lightbox="image"><img
-                                    src="{!!('product/fertilizer/pupuk CAN.png')!!}" alt=""></a>
+                                    src="{!!('product/fertilizer/pupuk CAN.png')!!}" alt="multi mas chemindo asset image"></a>
                         </div>
                         <div class="entry-title">
                             <h3>PUPUK CAN</h3>
@@ -275,7 +275,7 @@
                     <div class="grid-inner">
                         <div class="entry-image">
                             <a href="{!!('product/fertilizer/npk/pupuk NPK15.png')!!}" data-lightbox="image"><img
-                                    src="{!!('product/fertilizer/npk/pupuk NPK15.png')!!}" alt=""></a>
+                                    src="{!!('product/fertilizer/npk/pupuk NPK15.png')!!}" alt="multi mas chemindo asset image"></a>
                         </div>
                         <div class="entry-title">
                             <h3>PUPUK NPK 15-15-15</h3>
@@ -291,7 +291,7 @@
                     <div class="grid-inner">
                         <div class="entry-image">
                             <a href="{!!('product/fertilizer/npk/pupuk npk12-12-17.png')!!}" data-lightbox="image"><img
-                                    src="{!!('product/fertilizer/npk/pupuk npk12-12-17.png')!!}" alt=""></a>
+                                    src="{!!('product/fertilizer/npk/pupuk npk12-12-17.png')!!}" alt="multi mas chemindo asset image"></a>
                         </div>
                         <div class="entry-title">
                             <h3>PUPUK NPK 12-12-17-2</h3>
@@ -308,7 +308,7 @@
                     <div class="grid-inner">
                         <div class="entry-image">
                             <a href="{!!('product/fertilizer/npk/pupuk npk13-6-27.png')!!}" data-lightbox="image"><img
-                                    src="{!!('product/fertilizer/npk/pupuk npk13-6-27.png')!!}" alt=""></a>
+                                    src="{!!('product/fertilizer/npk/pupuk npk13-6-27.png')!!}" alt="multi mas chemindo asset image"></a>
                         </div>
                         <div class="entry-title">
                             <h3>PUPUK NPK 13-6-27-4+B</h3>
@@ -331,7 +331,7 @@
                     <div class="grid-inner">
                         <div class="entry-image">
                             <a href="{!!('product/fertilizer/pupuk copper sulphate.png')!!}" data-lightbox="image"><img
-                                    src="{!!('product/fertilizer/pupuk copper sulphate.png')!!}" alt=""></a>
+                                    src="{!!('product/fertilizer/pupuk copper sulphate.png')!!}" alt="multi mas chemindo asset image"></a>
                         </div>
                         <div class="entry-title">
                             <h3>PUPUK COPPER SULPHATE</h3>
@@ -348,7 +348,7 @@
                     <div class="grid-inner">
                         <div class="entry-image">
                             <a href="{!!('product/fertilizer/pupuk zinc sulphate.png')!!}" data-lightbox="image"><img
-                                    src="{!!('product/fertilizer/pupuk zinc sulphate.png')!!}" alt=""></a>
+                                    src="{!!('product/fertilizer/pupuk zinc sulphate.png')!!}" alt="multi mas chemindo asset image"></a>
                         </div>
                         <div class="entry-title">
                             <h3>PUPUK ZINC SULPHATE</h3>
@@ -365,7 +365,7 @@
                     <div class="grid-inner">
                         <div class="entry-image">
                             <a href="{!!('product/fertilizer/npk/pupuk npk13-8-27.png')!!}" data-lightbox="image"><img
-                                    src="{!!('product/fertilizer/npk/pupuk npk13-8-27.png')!!}" alt=""></a>
+                                    src="{!!('product/fertilizer/npk/pupuk npk13-8-27.png')!!}" alt="multi mas chemindo asset image"></a>
                         </div>
                         <div class="entry-title">
                             <h3>PUPUK ZA</h3>
@@ -380,7 +380,7 @@
                     <div class="grid-inner">
                         <div class="entry-image">
                             <a href="{!!('product/fertilizer/npk/pupuk npk12-6-22.png')!!}" data-lightbox="image"><img
-                                    src="{!!('product/fertilizer/npk/pupuk npk12-6-22.png')!!}" alt=""></a>
+                                    src="{!!('product/fertilizer/npk/pupuk npk12-6-22.png')!!}" alt="multi mas chemindo asset image"></a>
                         </div>
                         <div class="entry-title">
                             <h3>PUPUK ZA</h3>
