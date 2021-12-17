@@ -4,7 +4,8 @@
 @section('content')
 <div class="section parallax dark bottommargin-lg" style="background-image:
     url('https://res.cloudinary.com/https-www-infinitysolutions-co-id/image/upload/c_scale,w_1920/v1639388484/customer/multimaschemindo/lainlain/header-key-partners.jpg');
-    background-size: cover;" data-bottom-top="background-position:0px 0px; margin-top:0px;">
+    background-size: cover; margin-top: 0px !important;"
+    data-bottom-top="background-position:0px 0px; margin-top:0px;">
     <div class="container clearfix">
         <div class="row align-content-between">
             <div class="col-lg-12 text-center" data-animate="bounceIn">
@@ -14,8 +15,8 @@
     </div>
 </div>
 <div class="container">
-    <div class="row align-items-center">
-        <div class="col-lg-6 offset-3 text-center">
+    <div class="row justify-content-center">
+        <div class="col-lg-6 col-md-12 col-sm-12 text-center">
             <div class="heading-block center">
                 <h4>Our Suppliers</h4>
             </div>

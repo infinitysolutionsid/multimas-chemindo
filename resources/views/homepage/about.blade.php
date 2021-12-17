@@ -4,7 +4,7 @@
 @section('content')
 <div class="section parallax dark bottommargin-lg" style="background-image:
     url('https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-01.jpg');
-    background-size: cover;" data-bottom-top="background-position:0px 0px; margin-top:0px;"
+    background-size: cover; margin-top:0px !important;" data-bottom-top="background-position:0px 0px; margin-top:0px;"
     data-top-bottom="background-position:0px -500px;">
     <div class="container clearfix">
         <div class="row align-content-between">
@@ -15,8 +15,8 @@
     </div>
 </div>
 <div class="container">
-    <div class="row align-items-center">
-        <div class="col-lg-6 offset-3 text-center">
+    <div class="row justify-content-center">
+        <div class="col-lg-8 col-md-12 col-sm-12 text-center">
             <h3>Our history</h3>
             <p><b>PT. Multi Mas Chemindo</b> is established in the year of 1996 in Medan. The initial company activity
                 is
@@ -27,13 +27,13 @@
         </div>
     </div>
     <hr>
-    <div class="row">
-        <div class="col-lg-6">
+    <div class="row justify-content-center">
+        <div class="col-lg-6 text-center">
             <h3>Our Vision</h3>
             <p>To be the most reliable fertilizer distributor Nationwide and globally.</p>
         </div>
 
-        <div class="col-lg-6">
+        <div class="col-lg-6 text-center">
             <h3>Our Mission</h3>
             <p>To give our customers satisfactory price, quality and product availability,
                 as well as keeping our commitment in business.
