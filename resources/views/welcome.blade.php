@@ -5,10 +5,13 @@
 
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="author" content="Bintang Tobing" />
-    <meta name="description" content="PT. Multi Mas Chemindo is established in the year of 1996 in Medan. The initial company activity is distributing various fertilizers to crude palm plantation in North Sumatra, Riau, and other area within Indonesia. For the last 22 years, PT. Multi Mas Chemindo has grown tremendously to become one of the reliable fertilizers importer company to supply throughout plantations in all over Indonesia.
+    <meta name="description" content="PT. Multi Mas Chemindo is established in the year of 1996 in Medan. The initial company activity is
+        distributing various fertilizers to crude palm plantation in North Sumatra, Riau, and other area within
+        Indonesia. For the last 22 years, PT. Multi Mas Chemindo has grown tremendously to become one of the reliable
+        fertilizers importer company to supply throughout plantations in all over Indonesia.
 " />
     <meta name="keywords"
-        content="multi mas chemindo, best fertilizers in Medan, chemindo, fertilizers multi mas chemindo" />
+        content="multi mas chemindo, best fertilizers in Medan, chemindo, fertilizers multi mas chemindo, multimaschemindo, fertilizers distributors, palm plantation" />
     <!-- Stylesheets
 	============================================= -->
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,400i,500,600,700&display=swap" rel="stylesheet"
@@ -25,7 +28,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="shortcut icon" href="{!!asset('homepage/temp/images/icon.ico')!!}" type="image/x-icon">
 
-    <!-- Workspace Demo Specific Stylesheet -->
+    <!-- Workspace Demo Specific Stylesheet --> 
     <link rel="stylesheet" href="{!!asset('homepage/css/colors.php?color=56735E')!!}" type="text/css" />
     <!-- Theme Color -->
     <link rel="stylesheet" href="{!!asset('homepage/temp/css/fonts.css')!!}" type="text/css" /> <!-- Theme Font -->
